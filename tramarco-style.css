@@ -9,7 +9,7 @@
 }
 .contentStyle {
 	background-attachment: scroll;
-	background-image: url(images/contentbk.gif);
+	/* background-image: url(images/contentbk.gif); */
 	background-repeat: repeat-x;
 	background-position: left top;
 	background-color: #f5f7f8;
